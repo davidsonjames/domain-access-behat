@@ -1,3 +1,4 @@
+#! /bin/bash
 
 hosts=(`php config/config.php domains`)
 tags=(`php config/config.php tags`)
